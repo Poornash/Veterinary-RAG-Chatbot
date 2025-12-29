@@ -1,0 +1,257 @@
+========================================
+CATEGORY: Gastrointestinal Problems in Dogs & Cats
+========================================
+
+This file contains structured, RAG-optimized veterinary knowledge on 
+common digestive issues in pets, including symptoms, causes, diagnosis, 
+treatment, prevention, and emergency signs.
+
+------------------------------------------------------
+1. Vomiting (Acute & Chronic)
+------------------------------------------------------
+Symptoms:
+- Nausea, drooling
+- Retching or gagging
+- Vomit containing foam, bile, food, grass
+- Lethargy, dehydration if severe
+
+Common Causes:
+- Dietary indiscretion (ate garbage)
+- Food intolerance
+- Parasites (roundworms, hookworms)
+- Gastritis
+- Infections (parvo, distemper)
+- Toxins (plants, chemicals, chocolate)
+- Foreign body obstruction
+- Pancreatitis
+- Kidney/Liver disease
+
+Diagnosis:
+- Physical exam
+- Parvo test (for puppies)
+- Blood tests
+- X-ray or ultrasound if obstruction suspected
+
+Treatment:
+- 6–12 hours fasting (mild cases only)
+- Oral rehydration solution (ORS)
+- Anti-vomit medication (ondansetron, Cerenia)
+- IV fluids for dehydration
+- Antibiotics if infection suspected
+- Surgery if obstruction present
+
+When Is It an Emergency:
+- Blood in vomit
+- Vomiting > 24 hours
+- Puppy vomiting repeatedly
+- Signs of toxicity
+- Foreign object eaten (toys, bones)
+
+Prevention:
+- Avoid sudden diet changes
+- Keep trash out of reach
+- Regular deworming
+
+------------------------------------------------------
+2. Diarrhea
+------------------------------------------------------
+Symptoms:
+- Loose/watery stool
+- Mucus or blood in stool
+- Increased frequency
+- Bad smell
+- Dehydration
+
+Common Causes:
+- Sudden diet change
+- Parasites (giardia, coccidia)
+- Viral infections (parvo)
+- Bacterial infection
+- Stress
+- Food allergy
+- Pancreatitis
+
+Diagnosis:
+- Fecal exam for parasites
+- Parvo test
+- Blood test for dehydration
+- Ultrasound if chronic
+
+Treatment:
+- Bland diet (boiled chicken + rice)
+- Probiotics
+- Deworming medication
+- Antibiotics (only if bacterial)
+- IV fluids for severe dehydration
+
+Emergency Signs:
+- Bloody diarrhea
+- Puppy/kitten affected
+- Continuous diarrhea for >24 hours
+- Weakness or collapse
+
+Prevention:
+- Keep water clean
+- Avoid table scraps
+- Vaccination (prevents parvo)
+- Deworm regularly
+
+------------------------------------------------------
+3. Gastritis (Stomach Inflammation)
+------------------------------------------------------
+Symptoms:
+- Vomiting after eating
+- Loss of appetite
+- Burping, drooling
+- Eating grass
+- Abdominal discomfort
+
+Causes:
+- Spoiled food
+- Eating garbage
+- Sudden diet change
+- Food allergy
+- Bacterial or viral infection
+
+Diagnosis:
+- Exam + history
+- Rule out obstruction
+
+Treatment:
+- Short fasting (not for puppies)
+- Bland diet
+- Anti-vomit medication
+- Antacids (veterinary prescribed)
+
+Prevention:
+- Stable diet
+- Avoid fatty foods
+- Keep chemicals away
+
+------------------------------------------------------
+4. Intestinal Worms (Helminths)
+------------------------------------------------------
+Symptoms:
+- Diarrhea
+- Vomiting worms
+- Bloated belly (especially puppies)
+- Weight loss
+- Dull coat
+
+Types:
+- Roundworms
+- Hookworms
+- Whipworms
+- Tapeworms
+
+Diagnosis:
+- Fecal test (microscopy)
+- Tapeworm segments seen near anus
+
+Treatment:
+- Dewormers (pyrantel, fenbendazole)
+- Tapeworm treatment (praziquantel)
+- Repeat dose in 2–3 weeks
+
+Prevention:
+- Deworm every 3 months
+- Keep surroundings clean
+- Regular flea control (tapeworms come from fleas)
+
+------------------------------------------------------
+5. Foreign Body Obstruction
+------------------------------------------------------
+Symptoms:
+- Repeated vomiting
+- No stool
+- Abdominal pain
+- Puppy chewing toys
+- Drooling
+- Restlessness
+
+Common Objects:
+- Socks
+- Toys
+- Bones
+- Strings/yarn (especially cats)
+- Plastic, metal pieces
+
+Diagnosis:
+- Abdominal X-ray
+- Ultrasound
+- Contrast study
+
+Treatment:
+- Endoscopic removal (if in stomach)
+- Surgery (if blocked intestine)
+- IV fluids + pain meds
+
+Emergency:
+- This is ALWAYS an emergency
+- No home treatment possible
+
+Prevention:
+- Keep small objects away
+- Provide safe chew toys
+
+------------------------------------------------------
+6. Pancreatitis
+------------------------------------------------------
+Symptoms:
+- Vomiting
+- Abdominal pain (“prayer position”: front down, rear up)
+- Diarrhea
+- Loss of appetite
+- Weakness
+
+Causes:
+- Eating oily/fatty foods
+- Obesity
+- High-fat diet
+- Some medications
+
+Diagnosis:
+- Blood test: CPL/PLI (Pancreatic Lipase Immunoreactivity)
+- Ultrasound
+
+Treatment:
+- IV fluids
+- Pain relief
+- Anti-vomit medication
+- Low-fat diet
+
+Prevention:
+- Avoid fatty foods
+- Maintain healthy weight
+
+------------------------------------------------------
+7. Constipation
+------------------------------------------------------
+Symptoms:
+- Straining to poop
+- Hard, dry stool
+- Crying during defecation
+- Loss of appetite
+
+Causes:
+- Low fiber diet
+- Dehydration
+- Hairball blockage (cats)
+- Obesity
+- Lack of exercise
+- Megacolon (cats)
+
+Diagnosis:
+- Rectal exam
+- X-ray
+
+Treatment:
+- Increase water intake
+- Fiber-rich diet
+- Lactulose laxative (vet prescribed)
+- Enema (done ONLY by vet)
+
+Prevention:
+- Hydration
+- Regular exercise
+- Balanced diet

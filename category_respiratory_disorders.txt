@@ -1,0 +1,232 @@
+========================================
+CATEGORY: Respiratory Disorders in Dogs & Cats
+========================================
+
+This file contains structured, RAG-optimized veterinary summaries of breathing 
+problems commonly seen in pets, including symptoms, causes, diagnosis, treatment, 
+and emergency signs.
+
+------------------------------------------------------
+1. Kennel Cough (Upper Airway Infection)
+------------------------------------------------------
+Symptoms:
+- Dry, hacking cough (“honking cough”)
+- Gagging or retching after coughing
+- Nasal discharge (mild)
+- Occasional fever
+- Normal appetite in mild cases
+
+Causes:
+- Bordetella bacteria
+- Parainfluenza virus
+- Spread through contact with infected dogs (boarding, grooming)
+
+Diagnosis:
+- Cough history + exposure
+- PCR nasal swab if severe
+
+Treatment:
+- Cough suppressants (vet prescribed)
+- Antibiotics if bacterial infection suspected
+- Steam inhalation
+- Avoid exercise until recovered
+
+Prevention:
+- Bordetella vaccine (oral, intranasal, injectable)
+- Avoid crowded dog areas during outbreaks
+
+------------------------------------------------------
+2. Pneumonia (Lung Infection)
+------------------------------------------------------
+Symptoms:
+- Wet, productive cough
+- Fever
+- Difficulty breathing
+- Loss of appetite
+- Nasal discharge (thick)
+- Lethargy
+
+Causes:
+- Bacterial infection (common)
+- Viral infection
+- Aspiration of food/vomit
+- Severe untreated kennel cough
+
+Diagnosis:
+- Chest X-ray
+- Blood tests
+- Tracheal wash (severe cases)
+
+Treatment:
+- Strong antibiotics
+- Nebulization + coupage therapy
+- Oxygen support if needed
+- IV fluids
+
+Emergency:
+- Blue gums
+- Labored breathing
+- Collapse
+
+------------------------------------------------------
+3. Feline Asthma
+------------------------------------------------------
+Symptoms:
+- Wheezing sound
+- Open-mouth breathing
+- Rapid breathing
+- Coughing episodes
+- Squatting posture during breathlessness
+
+Causes:
+- Allergens (dust, smoke, pollen)
+- Stress
+- Genetics
+
+Diagnosis:
+- Chest X-ray (air trapping in lungs)
+- Blood tests
+- Exclusion of other diseases
+
+Treatment:
+- Inhaled bronchodilators (albuterol)
+- Corticosteroids (inhaled or oral)
+- Remove dust/allergens (air purifier helps)
+
+Triggers to Avoid:
+- Cigarette smoke
+- Perfumes/sprays
+- Dusty litter
+
+------------------------------------------------------
+4. Tracheal Collapse (Small Dogs)
+------------------------------------------------------
+Symptoms:
+- Goose-honking cough
+- Worse with excitement or pulling leash
+- Breathing difficulty
+- Gagging
+
+Breeds Commonly Affected:
+- Pomeranian  
+- Chihuahua  
+- Yorkshire Terrier  
+- Shih Tzu  
+
+Causes:
+- Weak cartilage rings in windpipe
+- Obesity worsens condition
+
+Diagnosis:
+- X-ray
+- Fluoroscopy
+- Endoscopy
+
+Treatment:
+- Cough suppressants
+- Bronchodilators
+- Weight loss
+- Harness instead of collar
+- Surgery (severe cases)
+
+------------------------------------------------------
+5. Feline Upper Respiratory Infection (Cat Flu)
+------------------------------------------------------
+Symptoms:
+- Sneezing
+- Runny nose
+- Eye discharge
+- Fever
+- Mouth ulcers (calicivirus)
+- Decreased appetite
+
+Causes:
+- Feline Herpesvirus (FHV)
+- Feline Calicivirus (FCV)
+- Secondary bacterial infection
+
+Diagnosis:
+- PCR test
+- Symptoms + history
+
+Treatment:
+- Antibiotics (if bacterial)
+- Eye drops (herpes conjunctivitis)
+- Steam inhalation
+- Nutritious, soft foods
+- L-lysine supplements (for FHV support)
+
+Prevention:
+- FVRCP vaccination
+
+------------------------------------------------------
+6. Bronchitis
+------------------------------------------------------
+Symptoms:
+- Persistent dry cough
+- Wheezing
+- Exercise intolerance
+- Increased breathing rate
+
+Causes:
+- Inflammation of bronchi (usually allergic)
+- Infections
+- Irritants like smoke
+
+Diagnosis:
+- X-ray
+- Bronchoscopy (if needed)
+
+Treatment:
+- Steroids
+- Bronchodilators
+- Avoid smoke/dust
+- Nebulization therapy
+
+------------------------------------------------------
+7. Nasal Mites (Dogs)
+------------------------------------------------------
+Symptoms:
+- Reverse sneezing
+- Nasal discharge
+- Itchy nose
+- Snorting noises
+
+Cause:
+- Mites living inside nasal passages
+
+Diagnosis:
+- Nasal swab
+- Endoscopy
+
+Treatment:
+- Ivermectin
+- Selamectin
+
+------------------------------------------------------
+8. Pleural Effusion (Fluid Around Lungs)
+------------------------------------------------------
+Symptoms:
+- Severe breathing difficulty
+- Open-mouth breathing (especially cats)
+- Abdominal breathing
+- Blue gums (late stage)
+- Shallow rapid breaths
+
+Causes:
+- Heart disease
+- Infection
+- Tumors
+- FIP in cats
+
+Diagnosis:
+- Chest X-ray
+- Ultrasound
+- Thoracocentesis (fluid removal test)
+
+Treatment:
+- Drain fluid (life-saving)
+- Treat underlying cause
+
+Emergency:
+- ANY difficulty breathing requires IMMEDIATE vet care.
