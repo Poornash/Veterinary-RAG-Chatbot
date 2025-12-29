@@ -22,3 +22,7 @@ https://ollama.com
 
 ```bash
 ollama pull phi3:mini
+### 3. Clone Repository
+git clone <repo_url>
+cd RAGBOT
+
