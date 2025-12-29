@@ -1,0 +1,190 @@
+===============================
+CATEGORY: Infectious Diseases in Pets
+===============================
+
+This file contains summarized veterinary knowledge about common infectious diseases in dogs and cats. 
+Information includes symptoms, causes, diagnosis, treatment, and prevention.
+
+------------------------------------------------------
+1. Canine Parvovirus (Parvo)
+------------------------------------------------------
+Symptoms:
+- Severe bloody diarrhea
+- Vomiting
+- Fever or low body temperature
+- Extreme weakness and dehydration
+- Foul-smelling stool
+
+Cause:
+- Caused by Canine Parvovirus Type-2
+- Spreads through contaminated feces, environment, or infected animals
+
+Diagnosis:
+- ELISA fecal test
+- CBC shows low WBC count
+- PCR test for confirmation
+
+Treatment:
+- IV fluids for dehydration
+- Anti-vomiting injections
+- Antibiotics to prevent secondary infections
+- Electrolyte correction
+- Plasma transfusion in severe cases
+
+Prevention:
+- Vaccination at 6, 8, 12, 16 weeks
+- Avoid exposure to infected areas
+- Proper disinfection
+
+------------------------------------------------------
+2. Canine Distemper
+------------------------------------------------------
+Symptoms:
+- Fever, watery eyes, nasal discharge
+- Coughing
+- Vomiting and diarrhea
+- Seizures and twitching
+- Thickened paw pads ("hard pad disease")
+
+Cause:
+- Canine Distemper Virus (CDV)
+
+Diagnosis:
+- PCR test
+- Blood tests + neurological signs
+
+Treatment:
+- Supportive only (no cure)
+- IV fluids, antibiotics
+- Anti-seizure medications
+
+Prevention:
+- Core vaccination (DHP/DHPP)
+
+------------------------------------------------------
+3. Kennel Cough (Bordetella)
+------------------------------------------------------
+Symptoms:
+- Dry, hacking cough
+- Gagging after coughing
+- Runny nose
+- Mild fever
+
+Causes:
+- Bordetella bronchiseptica bacteria
+- Canine Parainfluenza virus
+- Highly contagious in boarding kennels
+
+Diagnosis:
+- Symptoms + history of exposure
+- PCR nasal swab
+
+Treatment:
+- Cough suppressants
+- Antibiotics if bacterial
+- Steam inhalation
+
+Prevention:
+- Bordetella vaccine (intranasal/oral)
+
+------------------------------------------------------
+4. Leptospirosis
+------------------------------------------------------
+Symptoms:
+- Sudden fever
+- Vomiting, diarrhea
+- Jaundice (yellow eyes)
+- Kidney failure
+- Muscle pain
+
+Cause:
+- Leptospira bacteria (spread through rat urine)
+
+Diagnosis:
+- MAT test
+- PCR test
+- Kidney/liver blood work
+
+Treatment:
+- Doxycycline antibiotics
+- IV fluids
+- Liver/kidney support
+
+Prevention:
+- Leptospirosis vaccine
+- Avoid stagnant water
+
+------------------------------------------------------
+5. Rabies
+------------------------------------------------------
+Symptoms:
+- Sudden behavior changes
+- Aggression or anxiety
+- Excessive drooling
+- Paralysis
+- Death (always fatal)
+
+Cause:
+- Rabies virus (spread by bite)
+
+Diagnosis:
+- Post-mortem brain tissue test
+- Symptoms + exposure history
+
+Treatment:
+- NONE (100% fatal after symptoms start)
+
+Prevention:
+- Mandatory yearly vaccination
+- Immediate wound cleaning after bite
+
+------------------------------------------------------
+6. Feline Infectious Peritonitis (FIP)
+------------------------------------------------------
+Symptoms:
+- Weight loss
+- Fever
+- Swollen belly (wet FIP)
+- Neurological signs (dry FIP)
+- Eye inflammation
+
+Cause:
+- Mutation of Feline Coronavirus (FCoV)
+
+Diagnosis:
+- Effusion analysis
+- PCR
+- High protein fluid in abdomen
+
+Treatment:
+- Antiviral (GS-441524; available in some countries)
+- Supportive care
+
+Prevention:
+- Good litter hygiene
+- Avoid overcrowding
+
+------------------------------------------------------
+7. Feline Upper Respiratory Infection (Cat Flu)
+------------------------------------------------------
+Symptoms:
+- Sneezing
+- Runny nose
+- Eye discharge
+- Mouth ulcers
+- Fever
+
+Causes:
+- Feline Herpesvirus (FHV)
+- Feline Calicivirus (FCV)
+
+Diagnosis:
+- Symptoms + PCR
+
+Treatment:
+- Antibiotics for secondary infection
+- Eye drops
+- Steam therapy
+
+Prevention:
+- Core FVRCP vaccination
