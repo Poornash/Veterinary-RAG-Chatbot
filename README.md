@@ -90,9 +90,9 @@ ollama pull llama3:instruct
 ```
 📦 Project Setup Instructions
 1️⃣ Clone the Repository
-```basg=h
-git clone https://github.com/<your-username>/PawMedBot.git
-cd PawMedBot
+```bash
+git clone https://github.com/Poornash/Veterinary-RAG-Chatbot.git
+cd Veterinary-RAG-Chatbot
 ```
 
 2️⃣ Create a Virtual Environment (Recommended)
