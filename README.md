@@ -7,33 +7,21 @@ This project is developed as part of an AI/ML academic project and is optimized 
 🚀 Features
 
 🐶 Veterinary Q&A (dogs, cats, birds, rabbits, etc.)
-
 📚 RAG-based answers using uploaded veterinary books & documents
-
 🧠 Local LLM inference (offline support)
-
 ⚡ Fast non-pet query rejection
-
 🗂️ Chat history & user authentication
-
 🖥️ Clean Streamlit-based UI
-
 🔒 No external API dependency (privacy-friendly)
 
 🛠️ Tech Stack
 
 Python 3.11
-
 Streamlit – Frontend
-
 LangChain – RAG pipeline
-
 ChromaDB – Vector database
-
 HuggingFace Embeddings – Text embeddings
-
 Ollama – Local LLM runtime
-
 SQLite – User & chat history storage
 
 📂 Project Structure
@@ -239,27 +227,6 @@ python backend/preprocessor.py
 ❗ Streamlit not found
 pip install streamlit
 
-🔒 What NOT to Upload to GitHub
-
-These are auto-generated and excluded via .gitignore:
-
-vectorstore/
-
-*.db
-
-__pycache__/
-
-.env
-
-They will be recreated automatically.
-
-👩‍💻 Project Contributors
-
-Poornashree E. – AI/ML, RAG, Backend, UI
-
-Project Partner – Testing, GPU execution, optimization
-
-📌 Academic Note
 
 This project falls under:
 
