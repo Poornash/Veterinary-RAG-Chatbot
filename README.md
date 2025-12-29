@@ -34,15 +34,18 @@ RAGBOT/
 │   ├── auth.py
 │   ├── db.py
 │   └── __init__.py
+
 ├── pages/
 │   ├── 1_login.py
 │   ├── 2_signup.py
 │   ├── 3_profile.py
 │   ├── 4_chat.py
 │   └── 5_history.py
+
 ├── data/
 │   ├── veterinary_books.pdf
 │   ├── clinics.csv
+
 ├── requirements.txt
 ├── README.md
 └── .gitignore
