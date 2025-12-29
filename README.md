@@ -130,6 +130,7 @@ Chunk documents
 Generate embeddings
 Create vectorstore/ folder automatically
 ⏱️ Takes time depending on system performance (normal).
+
 ▶️ Run the Application
 ```
 python -m streamlit run app.py
